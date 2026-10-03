@@ -1,0 +1,521 @@
+year,quarter,region,economic_activity,workers,source_file
+2026,1,الباحة,تحت المعالجة,6569,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,تحت المعالجة,16817,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,تحت المعالجة,6469,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,تحت المعالجة,870276,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,تحت المعالجة,67188,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,تحت المعالجة,45493,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,تحت المعالجة,40975,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,تحت المعالجة,14519,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,تحت المعالجة,17534,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,تحت المعالجة,47828,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,تحت المعالجة,39893,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,تحت المعالجة,120004,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,تحت المعالجة,39535,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,أنشطة الخدمات الأخرى,1852,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,أنشطة الخدمات الأخرى,3340,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,أنشطة الخدمات الأخرى,2823,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,أنشطة الخدمات الأخرى,147069,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,أنشطة الخدمات الأخرى,41487,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,أنشطة الخدمات الأخرى,13850,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,أنشطة الخدمات الأخرى,13589,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,أنشطة الخدمات الأخرى,7239,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,أنشطة الخدمات الأخرى,9031,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,أنشطة الخدمات الأخرى,6478,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,أنشطة الخدمات الأخرى,14100,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,أنشطة الخدمات الأخرى,53966,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,أنشطة الخدمات الأخرى,5550,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,أنشطة خدمات الاقامة والطعام,6051,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,أنشطة خدمات الاقامة والطعام,6883,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,أنشطة خدمات الاقامة والطعام,6210,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,أنشطة خدمات الاقامة والطعام,218208,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,أنشطة خدمات الاقامة والطعام,121927,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,أنشطة خدمات الاقامة والطعام,26719,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,أنشطة خدمات الاقامة والطعام,49408,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,أنشطة خدمات الاقامة والطعام,22325,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,أنشطة خدمات الاقامة والطعام,25511,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,أنشطة خدمات الاقامة والطعام,10905,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,أنشطة خدمات الاقامة والطعام,42547,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,أنشطة خدمات الاقامة والطعام,198342,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,أنشطة خدمات الاقامة والطعام,9987,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,أنشطة صحة الانسان والعمل الاجتماعي,1432,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,أنشطة صحة الانسان والعمل الاجتماعي,2033,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,أنشطة صحة الانسان والعمل الاجتماعي,1114,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,أنشطة صحة الانسان والعمل الاجتماعي,141527,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,أنشطة صحة الانسان والعمل الاجتماعي,56854,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,أنشطة صحة الانسان والعمل الاجتماعي,12047,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,أنشطة صحة الانسان والعمل الاجتماعي,13524,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,أنشطة صحة الانسان والعمل الاجتماعي,4315,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,أنشطة صحة الانسان والعمل الاجتماعي,5814,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,أنشطة صحة الانسان والعمل الاجتماعي,4801,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,أنشطة صحة الانسان والعمل الاجتماعي,14725,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,أنشطة صحة الانسان والعمل الاجتماعي,69791,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,أنشطة صحة الانسان والعمل الاجتماعي,3587,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,8,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,57,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,22,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,4173,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,9200,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,319,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,1274,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,90,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,414,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,48,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,4791,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,10811,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,80,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,74,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,115,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,66,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,20295,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,16626,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,2111,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,1390,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,331,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,484,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,384,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,1334,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,13671,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,2474,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,الأنشطة العقارية,255,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,الأنشطة العقارية,408,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,الأنشطة العقارية,246,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,الأنشطة العقارية,50750,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,الأنشطة العقارية,11359,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,الأنشطة العقارية,3196,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,الأنشطة العقارية,4831,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,الأنشطة العقارية,1560,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,الأنشطة العقارية,1275,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,الأنشطة العقارية,978,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,الأنشطة العقارية,2651,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,الأنشطة العقارية,27920,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,الأنشطة العقارية,1026,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,الأنشطة المهنية والعلمية والتقنية,455,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,الأنشطة المهنية والعلمية والتقنية,727,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,الأنشطة المهنية والعلمية والتقنية,269,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,الأنشطة المهنية والعلمية والتقنية,117752,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,الأنشطة المهنية والعلمية والتقنية,35875,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,الأنشطة المهنية والعلمية والتقنية,3467,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,الأنشطة المهنية والعلمية والتقنية,4257,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,الأنشطة المهنية والعلمية والتقنية,1804,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,الأنشطة المهنية والعلمية والتقنية,1210,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,الأنشطة المهنية والعلمية والتقنية,1761,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,الأنشطة المهنية والعلمية والتقنية,2781,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,الأنشطة المهنية والعلمية والتقنية,31599,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,الأنشطة المهنية والعلمية والتقنية,1059,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",2,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",1,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",895,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",431,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",5,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",9,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",201,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",3,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",3,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",7,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",71,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,التشييد,9371,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,التشييد,12615,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,التشييد,18639,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,التشييد,1508328,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,التشييد,1036688,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,التشييد,155330,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,التشييد,109326,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,التشييد,35931,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,التشييد,45526,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,التشييد,55024,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,التشييد,89053,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,التشييد,560968,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,التشييد,79634,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,التعدين واستغلال المحاجر,46,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,التعدين واستغلال المحاجر,185,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,التعدين واستغلال المحاجر,878,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,التعدين واستغلال المحاجر,18909,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,التعدين واستغلال المحاجر,127371,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,التعدين واستغلال المحاجر,823,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,التعدين واستغلال المحاجر,2026,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,التعدين واستغلال المحاجر,156,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,التعدين واستغلال المحاجر,427,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,التعدين واستغلال المحاجر,172,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,التعدين واستغلال المحاجر,1122,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,التعدين واستغلال المحاجر,4151,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,التعدين واستغلال المحاجر,779,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,التعليم,257,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,التعليم,1921,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,التعليم,818,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,التعليم,93550,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,التعليم,23934,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,التعليم,5353,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,التعليم,7002,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,التعليم,5068,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,التعليم,1673,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,التعليم,1479,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,التعليم,3993,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,التعليم,33946,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,التعليم,1326,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,الخدمات الإدارية وخدمات الدعم,2449,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,الخدمات الإدارية وخدمات الدعم,4215,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,الخدمات الإدارية وخدمات الدعم,3781,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,الخدمات الإدارية وخدمات الدعم,821643,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,الخدمات الإدارية وخدمات الدعم,263878,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,الخدمات الإدارية وخدمات الدعم,46437,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,الخدمات الإدارية وخدمات الدعم,20355,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,الخدمات الإدارية وخدمات الدعم,8338,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,الخدمات الإدارية وخدمات الدعم,4275,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,الخدمات الإدارية وخدمات الدعم,7813,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,الخدمات الإدارية وخدمات الدعم,37861,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,الخدمات الإدارية وخدمات الدعم,202353,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,الخدمات الإدارية وخدمات الدعم,19082,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,الزراعة والحراجة وصيد الأسماك,237,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,الزراعة والحراجة وصيد الأسماك,2150,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,الزراعة والحراجة وصيد الأسماك,208,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,الزراعة والحراجة وصيد الأسماك,171387,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,الزراعة والحراجة وصيد الأسماك,13814,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,الزراعة والحراجة وصيد الأسماك,23924,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,الزراعة والحراجة وصيد الأسماك,3434,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,الزراعة والحراجة وصيد الأسماك,3460,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,الزراعة والحراجة وصيد الأسماك,2924,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,الزراعة والحراجة وصيد الأسماك,6441,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,الزراعة والحراجة وصيد الأسماك,4439,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,الزراعة والحراجة وصيد الأسماك,18500,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,الزراعة والحراجة وصيد الأسماك,3546,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,الصناعة التحويلية,4761,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,الصناعة التحويلية,6816,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,الصناعة التحويلية,5518,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,الصناعة التحويلية,693464,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,الصناعة التحويلية,302807,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,الصناعة التحويلية,93050,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,الصناعة التحويلية,53186,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,الصناعة التحويلية,14581,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,الصناعة التحويلية,23062,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,الصناعة التحويلية,18867,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,الصناعة التحويلية,38690,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,الصناعة التحويلية,239215,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,الصناعة التحويلية,42181,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,الفنون والترفيه والتسلية,206,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,الفنون والترفيه والتسلية,495,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,الفنون والترفيه والتسلية,251,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,الفنون والترفيه والتسلية,22134,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,الفنون والترفيه والتسلية,5856,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,الفنون والترفيه والتسلية,1643,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,الفنون والترفيه والتسلية,1857,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,الفنون والترفيه والتسلية,1201,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,الفنون والترفيه والتسلية,964,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,الفنون والترفيه والتسلية,747,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,الفنون والترفيه والتسلية,1737,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,الفنون والترفيه والتسلية,10131,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,الفنون والترفيه والتسلية,598,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,المعلومات والاتصالات,45,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,المعلومات والاتصالات,126,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,المعلومات والاتصالات,326,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,المعلومات والاتصالات,145676,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,المعلومات والاتصالات,10784,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,المعلومات والاتصالات,1749,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,المعلومات والاتصالات,1136,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,المعلومات والاتصالات,1945,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,المعلومات والاتصالات,287,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,المعلومات والاتصالات,296,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,المعلومات والاتصالات,1854,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,المعلومات والاتصالات,17077,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,المعلومات والاتصالات,321,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,النقل والتخزين,1001,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,النقل والتخزين,3692,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,النقل والتخزين,2798,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,النقل والتخزين,459240,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,النقل والتخزين,169266,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,النقل والتخزين,29659,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,النقل والتخزين,19405,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,النقل والتخزين,7248,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,النقل والتخزين,6913,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,النقل والتخزين,14168,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,النقل والتخزين,16108,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,النقل والتخزين,153316,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,النقل والتخزين,19254,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,12790,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,20866,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,13572,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,690697,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,272889,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,73637,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,90356,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,35645,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,56476,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,30958,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,102764,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,488368,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,25457,Workers in the private sector Q12026CSV.csv
+2026,1,الباحة,لأنشطة المالية وأنشطة التأمين,23,Workers in the private sector Q12026CSV.csv
+2026,1,الجوف,لأنشطة المالية وأنشطة التأمين,5,Workers in the private sector Q12026CSV.csv
+2026,1,الحدود الشمالية,لأنشطة المالية وأنشطة التأمين,10,Workers in the private sector Q12026CSV.csv
+2026,1,الرياض,لأنشطة المالية وأنشطة التأمين,74050,Workers in the private sector Q12026CSV.csv
+2026,1,الشرقية,لأنشطة المالية وأنشطة التأمين,9291,Workers in the private sector Q12026CSV.csv
+2026,1,القصيم,لأنشطة المالية وأنشطة التأمين,113,Workers in the private sector Q12026CSV.csv
+2026,1,المدينة,لأنشطة المالية وأنشطة التأمين,691,Workers in the private sector Q12026CSV.csv
+2026,1,تبوك,لأنشطة المالية وأنشطة التأمين,19,Workers in the private sector Q12026CSV.csv
+2026,1,جازان,لأنشطة المالية وأنشطة التأمين,31,Workers in the private sector Q12026CSV.csv
+2026,1,حائل,لأنشطة المالية وأنشطة التأمين,51,Workers in the private sector Q12026CSV.csv
+2026,1,عسير,لأنشطة المالية وأنشطة التأمين,139,Workers in the private sector Q12026CSV.csv
+2026,1,مكة المكرمة,لأنشطة المالية وأنشطة التأمين,20158,Workers in the private sector Q12026CSV.csv
+2026,1,نجران,لأنشطة المالية وأنشطة التأمين,38,Workers in the private sector Q12026CSV.csv
+2026,2,الباحة,تحت المعالجة,6812,Employees private sector Q22026CSV.csv
+2026,2,الجوف,تحت المعالجة,16976,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,تحت المعالجة,6668,Employees private sector Q22026CSV.csv
+2026,2,الرياض,تحت المعالجة,838685,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,تحت المعالجة,67311,Employees private sector Q22026CSV.csv
+2026,2,القصيم,تحت المعالجة,53290,Employees private sector Q22026CSV.csv
+2026,2,المدينة,تحت المعالجة,40920,Employees private sector Q22026CSV.csv
+2026,2,تبوك,تحت المعالجة,14885,Employees private sector Q22026CSV.csv
+2026,2,جازان,تحت المعالجة,17709,Employees private sector Q22026CSV.csv
+2026,2,حائل,تحت المعالجة,48600,Employees private sector Q22026CSV.csv
+2026,2,عسير,تحت المعالجة,40332,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,تحت المعالجة,124157,Employees private sector Q22026CSV.csv
+2026,2,نجران,تحت المعالجة,41565,Employees private sector Q22026CSV.csv
+2026,2,الباحة,أنشطة الخدمات الأخرى,1879,Employees private sector Q22026CSV.csv
+2026,2,الجوف,أنشطة الخدمات الأخرى,3434,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,أنشطة الخدمات الأخرى,3016,Employees private sector Q22026CSV.csv
+2026,2,الرياض,أنشطة الخدمات الأخرى,150290,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,أنشطة الخدمات الأخرى,42229,Employees private sector Q22026CSV.csv
+2026,2,القصيم,أنشطة الخدمات الأخرى,13847,Employees private sector Q22026CSV.csv
+2026,2,المدينة,أنشطة الخدمات الأخرى,13819,Employees private sector Q22026CSV.csv
+2026,2,تبوك,أنشطة الخدمات الأخرى,7311,Employees private sector Q22026CSV.csv
+2026,2,جازان,أنشطة الخدمات الأخرى,9132,Employees private sector Q22026CSV.csv
+2026,2,حائل,أنشطة الخدمات الأخرى,6567,Employees private sector Q22026CSV.csv
+2026,2,عسير,أنشطة الخدمات الأخرى,14594,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,أنشطة الخدمات الأخرى,55397,Employees private sector Q22026CSV.csv
+2026,2,نجران,أنشطة الخدمات الأخرى,5682,Employees private sector Q22026CSV.csv
+2026,2,الباحة,أنشطة خدمات الاقامة والطعام,6000,Employees private sector Q22026CSV.csv
+2026,2,الجوف,أنشطة خدمات الاقامة والطعام,7110,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,أنشطة خدمات الاقامة والطعام,6330,Employees private sector Q22026CSV.csv
+2026,2,الرياض,أنشطة خدمات الاقامة والطعام,223140,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,أنشطة خدمات الاقامة والطعام,126088,Employees private sector Q22026CSV.csv
+2026,2,القصيم,أنشطة خدمات الاقامة والطعام,29183,Employees private sector Q22026CSV.csv
+2026,2,المدينة,أنشطة خدمات الاقامة والطعام,50232,Employees private sector Q22026CSV.csv
+2026,2,تبوك,أنشطة خدمات الاقامة والطعام,23546,Employees private sector Q22026CSV.csv
+2026,2,جازان,أنشطة خدمات الاقامة والطعام,25615,Employees private sector Q22026CSV.csv
+2026,2,حائل,أنشطة خدمات الاقامة والطعام,11451,Employees private sector Q22026CSV.csv
+2026,2,عسير,أنشطة خدمات الاقامة والطعام,42715,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,أنشطة خدمات الاقامة والطعام,202894,Employees private sector Q22026CSV.csv
+2026,2,نجران,أنشطة خدمات الاقامة والطعام,9533,Employees private sector Q22026CSV.csv
+2026,2,الباحة,أنشطة صحة الانسان والعمل الاجتماعي,1157,Employees private sector Q22026CSV.csv
+2026,2,الجوف,أنشطة صحة الانسان والعمل الاجتماعي,2010,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,أنشطة صحة الانسان والعمل الاجتماعي,1058,Employees private sector Q22026CSV.csv
+2026,2,الرياض,أنشطة صحة الانسان والعمل الاجتماعي,137338,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,أنشطة صحة الانسان والعمل الاجتماعي,52864,Employees private sector Q22026CSV.csv
+2026,2,القصيم,أنشطة صحة الانسان والعمل الاجتماعي,11963,Employees private sector Q22026CSV.csv
+2026,2,المدينة,أنشطة صحة الانسان والعمل الاجتماعي,13201,Employees private sector Q22026CSV.csv
+2026,2,تبوك,أنشطة صحة الانسان والعمل الاجتماعي,3927,Employees private sector Q22026CSV.csv
+2026,2,جازان,أنشطة صحة الانسان والعمل الاجتماعي,5351,Employees private sector Q22026CSV.csv
+2026,2,حائل,أنشطة صحة الانسان والعمل الاجتماعي,4742,Employees private sector Q22026CSV.csv
+2026,2,عسير,أنشطة صحة الانسان والعمل الاجتماعي,14627,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,أنشطة صحة الانسان والعمل الاجتماعي,69383,Employees private sector Q22026CSV.csv
+2026,2,نجران,أنشطة صحة الانسان والعمل الاجتماعي,3603,Employees private sector Q22026CSV.csv
+2026,2,الباحة,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,35,Employees private sector Q22026CSV.csv
+2026,2,الجوف,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,68,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,23,Employees private sector Q22026CSV.csv
+2026,2,الرياض,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,14886,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,9341,Employees private sector Q22026CSV.csv
+2026,2,القصيم,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,339,Employees private sector Q22026CSV.csv
+2026,2,المدينة,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,1310,Employees private sector Q22026CSV.csv
+2026,2,تبوك,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,380,Employees private sector Q22026CSV.csv
+2026,2,جازان,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,430,Employees private sector Q22026CSV.csv
+2026,2,حائل,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,52,Employees private sector Q22026CSV.csv
+2026,2,عسير,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,4801,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,10902,Employees private sector Q22026CSV.csv
+2026,2,نجران,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,53,Employees private sector Q22026CSV.csv
+2026,2,الباحة,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,78,Employees private sector Q22026CSV.csv
+2026,2,الجوف,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,289,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,94,Employees private sector Q22026CSV.csv
+2026,2,الرياض,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,18450,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,15819,Employees private sector Q22026CSV.csv
+2026,2,القصيم,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,2029,Employees private sector Q22026CSV.csv
+2026,2,المدينة,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,1373,Employees private sector Q22026CSV.csv
+2026,2,تبوك,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,317,Employees private sector Q22026CSV.csv
+2026,2,جازان,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,414,Employees private sector Q22026CSV.csv
+2026,2,حائل,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,283,Employees private sector Q22026CSV.csv
+2026,2,عسير,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,1305,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,13965,Employees private sector Q22026CSV.csv
+2026,2,نجران,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,877,Employees private sector Q22026CSV.csv
+2026,2,الباحة,الأنشطة العقارية,460,Employees private sector Q22026CSV.csv
+2026,2,الجوف,الأنشطة العقارية,404,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,الأنشطة العقارية,280,Employees private sector Q22026CSV.csv
+2026,2,الرياض,الأنشطة العقارية,47072,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,الأنشطة العقارية,11374,Employees private sector Q22026CSV.csv
+2026,2,القصيم,الأنشطة العقارية,2493,Employees private sector Q22026CSV.csv
+2026,2,المدينة,الأنشطة العقارية,5706,Employees private sector Q22026CSV.csv
+2026,2,تبوك,الأنشطة العقارية,1567,Employees private sector Q22026CSV.csv
+2026,2,جازان,الأنشطة العقارية,1251,Employees private sector Q22026CSV.csv
+2026,2,حائل,الأنشطة العقارية,1022,Employees private sector Q22026CSV.csv
+2026,2,عسير,الأنشطة العقارية,2787,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,الأنشطة العقارية,26379,Employees private sector Q22026CSV.csv
+2026,2,نجران,الأنشطة العقارية,931,Employees private sector Q22026CSV.csv
+2026,2,الباحة,الأنشطة المهنية والعلمية والتقنية,443,Employees private sector Q22026CSV.csv
+2026,2,الجوف,الأنشطة المهنية والعلمية والتقنية,609,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,الأنشطة المهنية والعلمية والتقنية,305,Employees private sector Q22026CSV.csv
+2026,2,الرياض,الأنشطة المهنية والعلمية والتقنية,119131,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,الأنشطة المهنية والعلمية والتقنية,36163,Employees private sector Q22026CSV.csv
+2026,2,القصيم,الأنشطة المهنية والعلمية والتقنية,3329,Employees private sector Q22026CSV.csv
+2026,2,المدينة,الأنشطة المهنية والعلمية والتقنية,4537,Employees private sector Q22026CSV.csv
+2026,2,تبوك,الأنشطة المهنية والعلمية والتقنية,1141,Employees private sector Q22026CSV.csv
+2026,2,جازان,الأنشطة المهنية والعلمية والتقنية,1226,Employees private sector Q22026CSV.csv
+2026,2,حائل,الأنشطة المهنية والعلمية والتقنية,1596,Employees private sector Q22026CSV.csv
+2026,2,عسير,الأنشطة المهنية والعلمية والتقنية,2685,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,الأنشطة المهنية والعلمية والتقنية,36013,Employees private sector Q22026CSV.csv
+2026,2,نجران,الأنشطة المهنية والعلمية والتقنية,1106,Employees private sector Q22026CSV.csv
+2026,2,الباحة,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",,Employees private sector Q22026CSV.csv
+2026,2,الجوف,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",2,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",1,Employees private sector Q22026CSV.csv
+2026,2,الرياض,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",1176,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",453,Employees private sector Q22026CSV.csv
+2026,2,القصيم,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",5,Employees private sector Q22026CSV.csv
+2026,2,المدينة,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",12,Employees private sector Q22026CSV.csv
+2026,2,تبوك,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",206,Employees private sector Q22026CSV.csv
+2026,2,جازان,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",2,Employees private sector Q22026CSV.csv
+2026,2,حائل,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",3,Employees private sector Q22026CSV.csv
+2026,2,عسير,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",8,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",151,Employees private sector Q22026CSV.csv
+2026,2,نجران,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",2,Employees private sector Q22026CSV.csv
+2026,2,الباحة,التشييد,9307,Employees private sector Q22026CSV.csv
+2026,2,الجوف,التشييد,12766,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,التشييد,18941,Employees private sector Q22026CSV.csv
+2026,2,الرياض,التشييد,1493418,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,التشييد,1037160,Employees private sector Q22026CSV.csv
+2026,2,القصيم,التشييد,154774,Employees private sector Q22026CSV.csv
+2026,2,المدينة,التشييد,110532,Employees private sector Q22026CSV.csv
+2026,2,تبوك,التشييد,38594,Employees private sector Q22026CSV.csv
+2026,2,جازان,التشييد,47109,Employees private sector Q22026CSV.csv
+2026,2,حائل,التشييد,56079,Employees private sector Q22026CSV.csv
+2026,2,عسير,التشييد,88864,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,التشييد,570616,Employees private sector Q22026CSV.csv
+2026,2,نجران,التشييد,85930,Employees private sector Q22026CSV.csv
+2026,2,الباحة,التعدين واستغلال المحاجر,159,Employees private sector Q22026CSV.csv
+2026,2,الجوف,التعدين واستغلال المحاجر,252,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,التعدين واستغلال المحاجر,873,Employees private sector Q22026CSV.csv
+2026,2,الرياض,التعدين واستغلال المحاجر,17418,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,التعدين واستغلال المحاجر,126336,Employees private sector Q22026CSV.csv
+2026,2,القصيم,التعدين واستغلال المحاجر,749,Employees private sector Q22026CSV.csv
+2026,2,المدينة,التعدين واستغلال المحاجر,2051,Employees private sector Q22026CSV.csv
+2026,2,تبوك,التعدين واستغلال المحاجر,160,Employees private sector Q22026CSV.csv
+2026,2,جازان,التعدين واستغلال المحاجر,422,Employees private sector Q22026CSV.csv
+2026,2,حائل,التعدين واستغلال المحاجر,165,Employees private sector Q22026CSV.csv
+2026,2,عسير,التعدين واستغلال المحاجر,1049,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,التعدين واستغلال المحاجر,5111,Employees private sector Q22026CSV.csv
+2026,2,نجران,التعدين واستغلال المحاجر,960,Employees private sector Q22026CSV.csv
+2026,2,الباحة,التعليم,267,Employees private sector Q22026CSV.csv
+2026,2,الجوف,التعليم,1833,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,التعليم,803,Employees private sector Q22026CSV.csv
+2026,2,الرياض,التعليم,81570,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,التعليم,23603,Employees private sector Q22026CSV.csv
+2026,2,القصيم,التعليم,4618,Employees private sector Q22026CSV.csv
+2026,2,المدينة,التعليم,6670,Employees private sector Q22026CSV.csv
+2026,2,تبوك,التعليم,4672,Employees private sector Q22026CSV.csv
+2026,2,جازان,التعليم,1597,Employees private sector Q22026CSV.csv
+2026,2,حائل,التعليم,1381,Employees private sector Q22026CSV.csv
+2026,2,عسير,التعليم,3775,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,التعليم,33303,Employees private sector Q22026CSV.csv
+2026,2,نجران,التعليم,1274,Employees private sector Q22026CSV.csv
+2026,2,الباحة,الخدمات الإدارية وخدمات الدعم,2423,Employees private sector Q22026CSV.csv
+2026,2,الجوف,الخدمات الإدارية وخدمات الدعم,3878,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,الخدمات الإدارية وخدمات الدعم,4374,Employees private sector Q22026CSV.csv
+2026,2,الرياض,الخدمات الإدارية وخدمات الدعم,834285,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,الخدمات الإدارية وخدمات الدعم,270871,Employees private sector Q22026CSV.csv
+2026,2,القصيم,الخدمات الإدارية وخدمات الدعم,46473,Employees private sector Q22026CSV.csv
+2026,2,المدينة,الخدمات الإدارية وخدمات الدعم,19870,Employees private sector Q22026CSV.csv
+2026,2,تبوك,الخدمات الإدارية وخدمات الدعم,7620,Employees private sector Q22026CSV.csv
+2026,2,جازان,الخدمات الإدارية وخدمات الدعم,4260,Employees private sector Q22026CSV.csv
+2026,2,حائل,الخدمات الإدارية وخدمات الدعم,10079,Employees private sector Q22026CSV.csv
+2026,2,عسير,الخدمات الإدارية وخدمات الدعم,40136,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,الخدمات الإدارية وخدمات الدعم,193429,Employees private sector Q22026CSV.csv
+2026,2,نجران,الخدمات الإدارية وخدمات الدعم,19388,Employees private sector Q22026CSV.csv
+2026,2,الباحة,الزراعة والحراجة وصيد الأسماك,205,Employees private sector Q22026CSV.csv
+2026,2,الجوف,الزراعة والحراجة وصيد الأسماك,2126,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,الزراعة والحراجة وصيد الأسماك,203,Employees private sector Q22026CSV.csv
+2026,2,الرياض,الزراعة والحراجة وصيد الأسماك,154867,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,الزراعة والحراجة وصيد الأسماك,14316,Employees private sector Q22026CSV.csv
+2026,2,القصيم,الزراعة والحراجة وصيد الأسماك,15549,Employees private sector Q22026CSV.csv
+2026,2,المدينة,الزراعة والحراجة وصيد الأسماك,3305,Employees private sector Q22026CSV.csv
+2026,2,تبوك,الزراعة والحراجة وصيد الأسماك,2768,Employees private sector Q22026CSV.csv
+2026,2,جازان,الزراعة والحراجة وصيد الأسماك,2758,Employees private sector Q22026CSV.csv
+2026,2,حائل,الزراعة والحراجة وصيد الأسماك,6122,Employees private sector Q22026CSV.csv
+2026,2,عسير,الزراعة والحراجة وصيد الأسماك,4082,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,الزراعة والحراجة وصيد الأسماك,17225,Employees private sector Q22026CSV.csv
+2026,2,نجران,الزراعة والحراجة وصيد الأسماك,2930,Employees private sector Q22026CSV.csv
+2026,2,الباحة,الصناعة التحويلية,4661,Employees private sector Q22026CSV.csv
+2026,2,الجوف,الصناعة التحويلية,7176,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,الصناعة التحويلية,5421,Employees private sector Q22026CSV.csv
+2026,2,الرياض,الصناعة التحويلية,708802,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,الصناعة التحويلية,322141,Employees private sector Q22026CSV.csv
+2026,2,القصيم,الصناعة التحويلية,91490,Employees private sector Q22026CSV.csv
+2026,2,المدينة,الصناعة التحويلية,53273,Employees private sector Q22026CSV.csv
+2026,2,تبوك,الصناعة التحويلية,13886,Employees private sector Q22026CSV.csv
+2026,2,جازان,الصناعة التحويلية,23893,Employees private sector Q22026CSV.csv
+2026,2,حائل,الصناعة التحويلية,17429,Employees private sector Q22026CSV.csv
+2026,2,عسير,الصناعة التحويلية,38294,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,الصناعة التحويلية,244692,Employees private sector Q22026CSV.csv
+2026,2,نجران,الصناعة التحويلية,43964,Employees private sector Q22026CSV.csv
+2026,2,الباحة,الفنون والترفيه والتسلية,229,Employees private sector Q22026CSV.csv
+2026,2,الجوف,الفنون والترفيه والتسلية,444,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,الفنون والترفيه والتسلية,200,Employees private sector Q22026CSV.csv
+2026,2,الرياض,الفنون والترفيه والتسلية,21773,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,الفنون والترفيه والتسلية,5756,Employees private sector Q22026CSV.csv
+2026,2,القصيم,الفنون والترفيه والتسلية,1454,Employees private sector Q22026CSV.csv
+2026,2,المدينة,الفنون والترفيه والتسلية,1514,Employees private sector Q22026CSV.csv
+2026,2,تبوك,الفنون والترفيه والتسلية,1420,Employees private sector Q22026CSV.csv
+2026,2,جازان,الفنون والترفيه والتسلية,953,Employees private sector Q22026CSV.csv
+2026,2,حائل,الفنون والترفيه والتسلية,676,Employees private sector Q22026CSV.csv
+2026,2,عسير,الفنون والترفيه والتسلية,1810,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,الفنون والترفيه والتسلية,9802,Employees private sector Q22026CSV.csv
+2026,2,نجران,الفنون والترفيه والتسلية,615,Employees private sector Q22026CSV.csv
+2026,2,الباحة,المعلومات والاتصالات,50,Employees private sector Q22026CSV.csv
+2026,2,الجوف,المعلومات والاتصالات,127,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,المعلومات والاتصالات,117,Employees private sector Q22026CSV.csv
+2026,2,الرياض,المعلومات والاتصالات,162216,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,المعلومات والاتصالات,10522,Employees private sector Q22026CSV.csv
+2026,2,القصيم,المعلومات والاتصالات,1794,Employees private sector Q22026CSV.csv
+2026,2,المدينة,المعلومات والاتصالات,1218,Employees private sector Q22026CSV.csv
+2026,2,تبوك,المعلومات والاتصالات,330,Employees private sector Q22026CSV.csv
+2026,2,جازان,المعلومات والاتصالات,305,Employees private sector Q22026CSV.csv
+2026,2,حائل,المعلومات والاتصالات,311,Employees private sector Q22026CSV.csv
+2026,2,عسير,المعلومات والاتصالات,1697,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,المعلومات والاتصالات,16739,Employees private sector Q22026CSV.csv
+2026,2,نجران,المعلومات والاتصالات,450,Employees private sector Q22026CSV.csv
+2026,2,الباحة,النقل والتخزين,975,Employees private sector Q22026CSV.csv
+2026,2,الجوف,النقل والتخزين,3803,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,النقل والتخزين,3000,Employees private sector Q22026CSV.csv
+2026,2,الرياض,النقل والتخزين,459249,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,النقل والتخزين,158350,Employees private sector Q22026CSV.csv
+2026,2,القصيم,النقل والتخزين,30959,Employees private sector Q22026CSV.csv
+2026,2,المدينة,النقل والتخزين,20518,Employees private sector Q22026CSV.csv
+2026,2,تبوك,النقل والتخزين,7778,Employees private sector Q22026CSV.csv
+2026,2,جازان,النقل والتخزين,7082,Employees private sector Q22026CSV.csv
+2026,2,حائل,النقل والتخزين,14295,Employees private sector Q22026CSV.csv
+2026,2,عسير,النقل والتخزين,16937,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,النقل والتخزين,161309,Employees private sector Q22026CSV.csv
+2026,2,نجران,النقل والتخزين,20436,Employees private sector Q22026CSV.csv
+2026,2,الباحة,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,12896,Employees private sector Q22026CSV.csv
+2026,2,الجوف,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,20551,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,13736,Employees private sector Q22026CSV.csv
+2026,2,الرياض,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,686040,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,275947,Employees private sector Q22026CSV.csv
+2026,2,القصيم,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,73568,Employees private sector Q22026CSV.csv
+2026,2,المدينة,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,91630,Employees private sector Q22026CSV.csv
+2026,2,تبوك,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,36334,Employees private sector Q22026CSV.csv
+2026,2,جازان,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,56772,Employees private sector Q22026CSV.csv
+2026,2,حائل,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,31202,Employees private sector Q22026CSV.csv
+2026,2,عسير,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,101383,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,488288,Employees private sector Q22026CSV.csv
+2026,2,نجران,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,25531,Employees private sector Q22026CSV.csv
+2026,2,الباحة,لأنشطة المالية وأنشطة التأمين,10,Employees private sector Q22026CSV.csv
+2026,2,الجوف,لأنشطة المالية وأنشطة التأمين,8,Employees private sector Q22026CSV.csv
+2026,2,الحدود الشمالية,لأنشطة المالية وأنشطة التأمين,15,Employees private sector Q22026CSV.csv
+2026,2,الرياض,لأنشطة المالية وأنشطة التأمين,73625,Employees private sector Q22026CSV.csv
+2026,2,الشرقية,لأنشطة المالية وأنشطة التأمين,9527,Employees private sector Q22026CSV.csv
+2026,2,القصيم,لأنشطة المالية وأنشطة التأمين,113,Employees private sector Q22026CSV.csv
+2026,2,المدينة,لأنشطة المالية وأنشطة التأمين,717,Employees private sector Q22026CSV.csv
+2026,2,تبوك,لأنشطة المالية وأنشطة التأمين,21,Employees private sector Q22026CSV.csv
+2026,2,جازان,لأنشطة المالية وأنشطة التأمين,57,Employees private sector Q22026CSV.csv
+2026,2,حائل,لأنشطة المالية وأنشطة التأمين,38,Employees private sector Q22026CSV.csv
+2026,2,عسير,لأنشطة المالية وأنشطة التأمين,205,Employees private sector Q22026CSV.csv
+2026,2,مكة المكرمة,لأنشطة المالية وأنشطة التأمين,20616,Employees private sector Q22026CSV.csv
+2026,2,نجران,لأنشطة المالية وأنشطة التأمين,46,Employees private sector Q22026CSV.csv

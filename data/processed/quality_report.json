@@ -1,0 +1,863 @@
+{
+  "status": "passed",
+  "errors": [],
+  "warnings": [
+    {
+      "code": "match_with_missing",
+      "message": "الربع 1 region الباحة: المطابقة نجحت مع 1 مفقودات؛ لا تعني اكتمال البيانات"
+    },
+    {
+      "code": "match_with_missing",
+      "message": "الربع 1 region نجران: المطابقة نجحت مع 1 مفقودات؛ لا تعني اكتمال البيانات"
+    },
+    {
+      "code": "match_with_missing",
+      "message": "الربع 1 economic_activity الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي: المطابقة نجحت مع 2 مفقودات؛ لا تعني اكتمال البيانات"
+    },
+    {
+      "code": "match_with_missing",
+      "message": "الربع 1 grand_total Grand Total: المطابقة نجحت مع 2 مفقودات؛ لا تعني اكتمال البيانات"
+    },
+    {
+      "code": "missing_value",
+      "message": "الربع 1: قيمة مفقودة (الباحة | الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي) محتفظ بها كمفقودة"
+    },
+    {
+      "code": "missing_value",
+      "message": "الربع 1: قيمة مفقودة (نجران | الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي) محتفظ بها كمفقودة"
+    },
+    {
+      "code": "match_with_missing",
+      "message": "الربع 2 region الباحة: المطابقة نجحت مع 1 مفقودات؛ لا تعني اكتمال البيانات"
+    },
+    {
+      "code": "match_with_missing",
+      "message": "الربع 2 economic_activity الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي: المطابقة نجحت مع 1 مفقودات؛ لا تعني اكتمال البيانات"
+    },
+    {
+      "code": "match_with_missing",
+      "message": "الربع 2 grand_total Grand Total: المطابقة نجحت مع 1 مفقودات؛ لا تعني اكتمال البيانات"
+    },
+    {
+      "code": "missing_value",
+      "message": "الربع 2: قيمة مفقودة (الباحة | الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي) محتفظ بها كمفقودة"
+    },
+    {
+      "code": "unclassified_activity",
+      "message": "«تحت المعالجة» تصنيف غير مفسر محتفظ به كما هو، وضمن الإجمالي العام، ولم يُوزَّع على الأنشطة"
+    }
+  ],
+  "sources": [
+    {
+      "file": "Workers in the private sector Q12026CSV.csv",
+      "year": 2026,
+      "quarter": 1,
+      "size_bytes": 3660,
+      "expected_size_bytes": 3660,
+      "sha256": "BC7985DDBF19E894E61DF921D7E24650D5C4AB6587D913C45ADAF6F20505EB26",
+      "expected_sha256": "BC7985DDBF19E894E61DF921D7E24650D5C4AB6587D913C45ADAF6F20505EB26",
+      "hash_match": true,
+      "records": 260,
+      "regions": 13,
+      "economic_activities": 20,
+      "missing_count": 2,
+      "grand_total_source": 13569346,
+      "grand_total_expected": 13569346
+    },
+    {
+      "file": "Employees private sector Q22026CSV.csv",
+      "year": 2026,
+      "quarter": 2,
+      "size_bytes": 3659,
+      "expected_size_bytes": 3659,
+      "sha256": "BFED560E1CDC95E29EA9327EDC9BD136B60EFC09A7FF93F69080DE0C6EEC7FCA",
+      "expected_sha256": "BFED560E1CDC95E29EA9327EDC9BD136B60EFC09A7FF93F69080DE0C6EEC7FCA",
+      "hash_match": true,
+      "records": 260,
+      "regions": 13,
+      "economic_activities": 20,
+      "missing_count": 1,
+      "grand_total_source": 13610026,
+      "grand_total_expected": 13610026
+    }
+  ],
+  "cross_source": {
+    "regions_match": true,
+    "economic_activities_match": true,
+    "same_order": true,
+    "total_records": 520
+  },
+  "missing_values": [
+    {
+      "year": 2026,
+      "quarter": 1,
+      "region": "الباحة",
+      "economic_activity": "الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "region": "نجران",
+      "economic_activity": "الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "region": "الباحة",
+      "economic_activity": "الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي"
+    }
+  ],
+  "reconciliation": [
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "region",
+      "name": "الباحة",
+      "source_total": 47882,
+      "sum_available": 47882,
+      "missing_count": 1,
+      "status": "match_with_missing"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "region",
+      "name": "الجوف",
+      "source_total": 83468,
+      "sum_available": 83468,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "region",
+      "name": "الحدود الشمالية",
+      "source_total": 64019,
+      "sum_available": 64019,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "region",
+      "name": "الرياض",
+      "source_total": 6270023,
+      "sum_available": 6270023,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "region",
+      "name": "الشرقية",
+      "source_total": 2597525,
+      "sum_available": 2597525,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "region",
+      "name": "القصيم",
+      "source_total": 538925,
+      "sum_available": 538925,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "region",
+      "name": "المدينة",
+      "source_total": 438031,
+      "sum_available": 438031,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "region",
+      "name": "تبوك",
+      "source_total": 165976,
+      "sum_available": 165976,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "region",
+      "name": "جازان",
+      "source_total": 203834,
+      "sum_available": 203834,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "region",
+      "name": "حائل",
+      "source_total": 209202,
+      "sum_available": 209202,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "region",
+      "name": "عسير",
+      "source_total": 420589,
+      "sum_available": 420589,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "region",
+      "name": "مكة المكرمة",
+      "source_total": 2274358,
+      "sum_available": 2274358,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "region",
+      "name": "نجران",
+      "source_total": 255514,
+      "sum_available": 255514,
+      "missing_count": 1,
+      "status": "match_with_missing"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "تحت المعالجة",
+      "source_total": 1333100,
+      "sum_available": 1333100,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "أنشطة الخدمات الأخرى",
+      "source_total": 320374,
+      "sum_available": 320374,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "أنشطة خدمات الاقامة والطعام",
+      "source_total": 745023,
+      "sum_available": 745023,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "أنشطة صحة الانسان والعمل الاجتماعي",
+      "source_total": 331564,
+      "sum_available": 331564,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "إمدادات الكهرباء والغاز والبخار وتكييف الهواء",
+      "source_total": 31287,
+      "sum_available": 31287,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها",
+      "source_total": 59355,
+      "sum_available": 59355,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "الأنشطة العقارية",
+      "source_total": 106455,
+      "sum_available": 106455,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "الأنشطة المهنية والعلمية والتقنية",
+      "source_total": 203016,
+      "sum_available": 203016,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",
+      "source_total": 1628,
+      "sum_available": 1628,
+      "missing_count": 2,
+      "status": "match_with_missing"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "التشييد",
+      "source_total": 3716433,
+      "sum_available": 3716433,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "التعدين واستغلال المحاجر",
+      "source_total": 157045,
+      "sum_available": 157045,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "التعليم",
+      "source_total": 180320,
+      "sum_available": 180320,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "الخدمات الإدارية وخدمات الدعم",
+      "source_total": 1442480,
+      "sum_available": 1442480,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "الزراعة والحراجة وصيد الأسماك",
+      "source_total": 254464,
+      "sum_available": 254464,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "الصناعة التحويلية",
+      "source_total": 1536198,
+      "sum_available": 1536198,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "الفنون والترفيه والتسلية",
+      "source_total": 47820,
+      "sum_available": 47820,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "المعلومات والاتصالات",
+      "source_total": 181622,
+      "sum_available": 181622,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "النقل والتخزين",
+      "source_total": 902068,
+      "sum_available": 902068,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية",
+      "source_total": 1914475,
+      "sum_available": 1914475,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "economic_activity",
+      "name": "لأنشطة المالية وأنشطة التأمين",
+      "source_total": 104619,
+      "sum_available": 104619,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "grand_total",
+      "name": "Grand Total",
+      "source_total": 13569346,
+      "sum_available": 13569346,
+      "missing_count": 2,
+      "status": "match_with_missing"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "region_totals_vs_grand_total",
+      "name": "Grand Total",
+      "source_total": 13569346,
+      "sum_available": 13569346,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "kind": "activity_totals_vs_grand_total",
+      "name": "Grand Total",
+      "source_total": 13569346,
+      "sum_available": 13569346,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "region",
+      "name": "الباحة",
+      "source_total": 48046,
+      "sum_available": 48046,
+      "missing_count": 1,
+      "status": "match_with_missing"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "region",
+      "name": "الجوف",
+      "source_total": 83866,
+      "sum_available": 83866,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "region",
+      "name": "الحدود الشمالية",
+      "source_total": 65458,
+      "sum_available": 65458,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "region",
+      "name": "الرياض",
+      "source_total": 6243431,
+      "sum_available": 6243431,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "region",
+      "name": "الشرقية",
+      "source_total": 2616171,
+      "sum_available": 2616171,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "region",
+      "name": "القصيم",
+      "source_total": 538019,
+      "sum_available": 538019,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "region",
+      "name": "المدينة",
+      "source_total": 442408,
+      "sum_available": 442408,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "region",
+      "name": "تبوك",
+      "source_total": 166863,
+      "sum_available": 166863,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "region",
+      "name": "جازان",
+      "source_total": 206338,
+      "sum_available": 206338,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "region",
+      "name": "حائل",
+      "source_total": 212093,
+      "sum_available": 212093,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "region",
+      "name": "عسير",
+      "source_total": 422086,
+      "sum_available": 422086,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "region",
+      "name": "مكة المكرمة",
+      "source_total": 2300371,
+      "sum_available": 2300371,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "region",
+      "name": "نجران",
+      "source_total": 264876,
+      "sum_available": 264876,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "تحت المعالجة",
+      "source_total": 1317910,
+      "sum_available": 1317910,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "أنشطة الخدمات الأخرى",
+      "source_total": 327197,
+      "sum_available": 327197,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "أنشطة خدمات الاقامة والطعام",
+      "source_total": 763837,
+      "sum_available": 763837,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "أنشطة صحة الانسان والعمل الاجتماعي",
+      "source_total": 321224,
+      "sum_available": 321224,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "إمدادات الكهرباء والغاز والبخار وتكييف الهواء",
+      "source_total": 42620,
+      "sum_available": 42620,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها",
+      "source_total": 55293,
+      "sum_available": 55293,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "الأنشطة العقارية",
+      "source_total": 101726,
+      "sum_available": 101726,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "الأنشطة المهنية والعلمية والتقنية",
+      "source_total": 208284,
+      "sum_available": 208284,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",
+      "source_total": 2021,
+      "sum_available": 2021,
+      "missing_count": 1,
+      "status": "match_with_missing"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "التشييد",
+      "source_total": 3724090,
+      "sum_available": 3724090,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "التعدين واستغلال المحاجر",
+      "source_total": 155705,
+      "sum_available": 155705,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "التعليم",
+      "source_total": 165366,
+      "sum_available": 165366,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "الخدمات الإدارية وخدمات الدعم",
+      "source_total": 1457086,
+      "sum_available": 1457086,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "الزراعة والحراجة وصيد الأسماك",
+      "source_total": 226456,
+      "sum_available": 226456,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "الصناعة التحويلية",
+      "source_total": 1575122,
+      "sum_available": 1575122,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "الفنون والترفيه والتسلية",
+      "source_total": 46646,
+      "sum_available": 46646,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "المعلومات والاتصالات",
+      "source_total": 195876,
+      "sum_available": 195876,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "النقل والتخزين",
+      "source_total": 904691,
+      "sum_available": 904691,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية",
+      "source_total": 1913878,
+      "sum_available": 1913878,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "economic_activity",
+      "name": "لأنشطة المالية وأنشطة التأمين",
+      "source_total": 104998,
+      "sum_available": 104998,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "grand_total",
+      "name": "Grand Total",
+      "source_total": 13610026,
+      "sum_available": 13610026,
+      "missing_count": 1,
+      "status": "match_with_missing"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "region_totals_vs_grand_total",
+      "name": "Grand Total",
+      "source_total": 13610026,
+      "sum_available": 13610026,
+      "missing_count": 0,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "quarter": 2,
+      "kind": "activity_totals_vs_grand_total",
+      "name": "Grand Total",
+      "source_total": 13610026,
+      "sum_available": 13610026,
+      "missing_count": 0,
+      "status": "match"
+    }
+  ],
+  "unclassified_activity": {
+    "name": "تحت المعالجة",
+    "interpretation": "غير محسوم",
+    "included_in_grand_total": true,
+    "source_totals": [
+      {
+        "year": 2026,
+        "quarter": 1,
+        "value": 1333100
+      },
+      {
+        "year": 2026,
+        "quarter": 2,
+        "value": 1317910
+      }
+    ]
+  },
+  "notes": [
+    "نجاح مطابقة الإجماليات بالقيم المتاحة لا يعني اكتمال البيانات؛ معنى الفراغات غير محسوم.",
+    "الفراغات محفوظة كقيم مفقودة وليست أصفارًا."
+  ],
+  "outputs": {
+    "workers.csv": {
+      "rows": 520,
+      "sha256": "4CBA7EEDB9FE091152F906494636341A6FA9C5B076B82FECCD7712C61D033BE2"
+    },
+    "source_totals.csv": {
+      "rows": 68,
+      "sha256": "082CC0767B3BDDE617408187196534B34A4D57326BACBD60CC452BB1FAC25111"
+    }
+  }
+}

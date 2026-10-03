@@ -1,0 +1,69 @@
+year,quarter,total_type,name,value,source_file
+2026,1,region,الباحة,47882,Workers in the private sector Q12026CSV.csv
+2026,1,region,الجوف,83468,Workers in the private sector Q12026CSV.csv
+2026,1,region,الحدود الشمالية,64019,Workers in the private sector Q12026CSV.csv
+2026,1,region,الرياض,6270023,Workers in the private sector Q12026CSV.csv
+2026,1,region,الشرقية,2597525,Workers in the private sector Q12026CSV.csv
+2026,1,region,القصيم,538925,Workers in the private sector Q12026CSV.csv
+2026,1,region,المدينة,438031,Workers in the private sector Q12026CSV.csv
+2026,1,region,تبوك,165976,Workers in the private sector Q12026CSV.csv
+2026,1,region,جازان,203834,Workers in the private sector Q12026CSV.csv
+2026,1,region,حائل,209202,Workers in the private sector Q12026CSV.csv
+2026,1,region,عسير,420589,Workers in the private sector Q12026CSV.csv
+2026,1,region,مكة المكرمة,2274358,Workers in the private sector Q12026CSV.csv
+2026,1,region,نجران,255514,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,تحت المعالجة,1333100,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,أنشطة الخدمات الأخرى,320374,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,أنشطة خدمات الاقامة والطعام,745023,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,أنشطة صحة الانسان والعمل الاجتماعي,331564,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,31287,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,59355,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,الأنشطة العقارية,106455,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,الأنشطة المهنية والعلمية والتقنية,203016,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",1628,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,التشييد,3716433,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,التعدين واستغلال المحاجر,157045,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,التعليم,180320,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,الخدمات الإدارية وخدمات الدعم,1442480,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,الزراعة والحراجة وصيد الأسماك,254464,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,الصناعة التحويلية,1536198,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,الفنون والترفيه والتسلية,47820,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,المعلومات والاتصالات,181622,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,النقل والتخزين,902068,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,1914475,Workers in the private sector Q12026CSV.csv
+2026,1,economic_activity,لأنشطة المالية وأنشطة التأمين,104619,Workers in the private sector Q12026CSV.csv
+2026,1,grand_total,Grand Total,13569346,Workers in the private sector Q12026CSV.csv
+2026,2,region,الباحة,48046,Employees private sector Q22026CSV.csv
+2026,2,region,الجوف,83866,Employees private sector Q22026CSV.csv
+2026,2,region,الحدود الشمالية,65458,Employees private sector Q22026CSV.csv
+2026,2,region,الرياض,6243431,Employees private sector Q22026CSV.csv
+2026,2,region,الشرقية,2616171,Employees private sector Q22026CSV.csv
+2026,2,region,القصيم,538019,Employees private sector Q22026CSV.csv
+2026,2,region,المدينة,442408,Employees private sector Q22026CSV.csv
+2026,2,region,تبوك,166863,Employees private sector Q22026CSV.csv
+2026,2,region,جازان,206338,Employees private sector Q22026CSV.csv
+2026,2,region,حائل,212093,Employees private sector Q22026CSV.csv
+2026,2,region,عسير,422086,Employees private sector Q22026CSV.csv
+2026,2,region,مكة المكرمة,2300371,Employees private sector Q22026CSV.csv
+2026,2,region,نجران,264876,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,تحت المعالجة,1317910,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,أنشطة الخدمات الأخرى,327197,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,أنشطة خدمات الاقامة والطعام,763837,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,أنشطة صحة الانسان والعمل الاجتماعي,321224,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,إمدادات الكهرباء والغاز والبخار وتكييف الهواء,42620,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,55293,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,الأنشطة العقارية,101726,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,الأنشطة المهنية والعلمية والتقنية,208284,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,"الإدارة العامة والدفاع , الضمان الاجتماعي الالزامي",2021,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,التشييد,3724090,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,التعدين واستغلال المحاجر,155705,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,التعليم,165366,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,الخدمات الإدارية وخدمات الدعم,1457086,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,الزراعة والحراجة وصيد الأسماك,226456,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,الصناعة التحويلية,1575122,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,الفنون والترفيه والتسلية,46646,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,المعلومات والاتصالات,195876,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,النقل والتخزين,904691,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,تجارة الجملة والتجزئة وإصلاح المركبات ذات المحركات والدرجات النارية,1913878,Employees private sector Q22026CSV.csv
+2026,2,economic_activity,لأنشطة المالية وأنشطة التأمين,104998,Employees private sector Q22026CSV.csv
+2026,2,grand_total,Grand Total,13610026,Employees private sector Q22026CSV.csv
