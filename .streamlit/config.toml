@@ -1,0 +1,15 @@
+# مظهر لوحة «مرصد سوق العمل السعودي» (اتفاق المظهر المشترك مع الرسوم).
+# خطوط النظام فقط؛ لا تحميل لخطوط خارجية.
+
+[theme]
+base = "light"
+primaryColor = "#0F766E"
+backgroundColor = "#F5F7FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#12263A"
+linkColor = "#0F766E"
+greenColor = "#0F766E"
+redColor = "#B45353"
+borderColor = "#E2E8F0"
+baseRadius = "10px"
+font = "Segoe UI, Tahoma, Arial, sans-serif"

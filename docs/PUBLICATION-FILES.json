@@ -1,0 +1,386 @@
+{
+  "reviewed_on": "2026-10-05",
+  "scope": "reviewed-source-subset; not a complete runnable Compass distribution or hosted app",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 21,
+      "sha256": "ac75c47f50bcf00aceb016954f2f5f76d8035a701e5117346c5baa50d6607d6d"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 1464,
+      "sha256": "70a779a7f2603ae842a94afaf2c3799ed10cb3cbdc107bb6656076a41f63741b"
+    },
+    {
+      "path": ".streamlit/config.toml",
+      "bytes": 491,
+      "sha256": "1f68abff1222480da828d45513ca5972bd3b73031ae3f2d65f6a853eb300973f"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 1476,
+      "sha256": "52dfb42a841563828ceef726f66a6fb4b82b756d01cc9cd9a41837db0a91ede5"
+    },
+    {
+      "path": "CLAUDE.md",
+      "bytes": 287,
+      "sha256": "3d60656004ceb06471594943a5277d9970a3a41f0c6273c084ff844b32229117"
+    },
+    {
+      "path": "PROJECT-PLAN.md",
+      "bytes": 4426,
+      "sha256": "47bba918aaa95ce0dfa83ac1bcc0fe9e3a2a9ab9e27dbd3c02b83dcf672d3571"
+    },
+    {
+      "path": "PROJECT-STATUS.md",
+      "bytes": 97558,
+      "sha256": "d5e47516302593f3bb3242ae78441275388c09646048df5d4e3ad81c6ca47a59"
+    },
+    {
+      "path": "README.md",
+      "bytes": 14051,
+      "sha256": "1d48576671f585aed93b5d705123db815d6e898b7e5afd316869df5333ce7426"
+    },
+    {
+      "path": "app.py",
+      "bytes": 20766,
+      "sha256": "7e63e89ae3b15c60df8b75d9a8e5ce32260cf3d9a62845955b71a874f5ddfc94"
+    },
+    {
+      "path": "compass/__init__.py",
+      "bytes": 270,
+      "sha256": "652157c031695dd29e9db9fd2fc249b13065c6adf0794fddf1c65edbc2c77b77"
+    },
+    {
+      "path": "compass/__main__.py",
+      "bytes": 2754,
+      "sha256": "feb6056e0e0f8e3e85dbe22b963abbc63f0c21c1deb32621646b3254dcd3906d"
+    },
+    {
+      "path": "compass/build.py",
+      "bytes": 12556,
+      "sha256": "6eef0004807cca1261a1d685b9398cf254968d2fae5618fc984d66163762474a"
+    },
+    {
+      "path": "compass/config.py",
+      "bytes": 7906,
+      "sha256": "9f2867639031d1aaebdec60336e13f6a80498fdfb74cffbd9e7187720127f5c3"
+    },
+    {
+      "path": "compass/fetch.py",
+      "bytes": 12428,
+      "sha256": "8d24f896163f35b360d48beb30d3b5a98e583f711a0413c6aaebec240dfac08f"
+    },
+    {
+      "path": "compass/launcher.py",
+      "bytes": 5511,
+      "sha256": "c518f3c013bf51cb89df7b0cee94ef397996c484316b3738af7ba16c5fe6e774"
+    },
+    {
+      "path": "compass/local_server.py",
+      "bytes": 3360,
+      "sha256": "978d3208095c90466c39168fe1d61351bb4542607ee43e898cc300fbfa4badf8"
+    },
+    {
+      "path": "compass/local_update.py",
+      "bytes": 15715,
+      "sha256": "66f0fab79038cfafb3e88a3916caac8399aacb5e268f96ae6916970e622e0c91"
+    },
+    {
+      "path": "compass/odp.py",
+      "bytes": 13024,
+      "sha256": "d58a05456da0a37cdc26bc3352ac550a49aa636e050698321f59f3bee2c364d7"
+    },
+    {
+      "path": "compass/pdf.py",
+      "bytes": 29496,
+      "sha256": "2e03c0a4fa4eb5d771006d987761c491d868aca48faabfde46471c69dc72a21b"
+    },
+    {
+      "path": "compass/serve.py",
+      "bytes": 1709,
+      "sha256": "515473e91acc84f96bf956ba9c4c4ffe804b1af303ac969f93816fc085a330c8"
+    },
+    {
+      "path": "compass/skills.py",
+      "bytes": 14379,
+      "sha256": "dfa23eb0e7d8ef7cde66cc3f3b6ec8b662d12ac9c3691e99836069495c4fc89e"
+    },
+    {
+      "path": "compass/update.py",
+      "bytes": 7734,
+      "sha256": "0e86329bf543a4b58ae3deab455a20523cc3276d48e90cc772b2bec0531cc618"
+    },
+    {
+      "path": "compass/verify.py",
+      "bytes": 2310,
+      "sha256": "c29f48f49655be53b49e6a76e0a85e52f5822a82eb014d477a11763fdd01f2cc"
+    },
+    {
+      "path": "compass/xlsx.py",
+      "bytes": 5093,
+      "sha256": "fd8da53ce220c05db982af18e151e28ae46551603c491feee52ca2c7f0c1b61e"
+    },
+    {
+      "path": "data/processed/README.md",
+      "bytes": 1404,
+      "sha256": "f6a93f99f3feb2463ba1d1fec26de7df765d66f19cc2149c7625db6e3f1d91e1"
+    },
+    {
+      "path": "data/processed/quality_report.json",
+      "bytes": 23469,
+      "sha256": "72ff8cc3635c3f6046db812531e9eee1020ecf939d4f0e8c87fae8cfaa44f34e"
+    },
+    {
+      "path": "data/processed/source_totals.csv",
+      "bytes": 7319,
+      "sha256": "082cc0767b3bdde617408187196534b34a4d57326bacbd60cc452bb1fac25111"
+    },
+    {
+      "path": "data/processed/workers.csv",
+      "bytes": 63551,
+      "sha256": "4cba7eedb9fe091152f906494636341a6fa9c5b076b82feccd7712c61d033be2"
+    },
+    {
+      "path": "data/raw/Employees private sector Q22026CSV.csv",
+      "bytes": 3659,
+      "sha256": "bfed560e1cdc95e29ea9327edc9bd136b60efc09a7ff93f69080de0c6eec7fca"
+    },
+    {
+      "path": "data/raw/README.md",
+      "bytes": 1599,
+      "sha256": "1849813b24a75eaeadebf2d7de6ace3843998b77a2b5667c5aefd31d1d53c616"
+    },
+    {
+      "path": "data/raw/Workers in the private sector Q12026CSV.csv",
+      "bytes": 3660,
+      "sha256": "bc7985ddbf19e894e61df921d7e24650d5c4ab6587d913c45adaf6f20505eb26"
+    },
+    {
+      "path": "docs/ANALYSIS-CONTRACT.md",
+      "bytes": 5843,
+      "sha256": "5e1ed6b8ec4a933190b97ee901b27fee1cfb8d1b82a138d959deb131fe794cef"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "bytes": 8720,
+      "sha256": "8ce39564f642210bc2dc9a5cf84b163efaef986627ae38009112d9a10a097ccd"
+    },
+    {
+      "path": "docs/DATA-SOURCES.md",
+      "bytes": 5943,
+      "sha256": "3173fe3e6287d606a375cb9f4055f65c0423662bade832925cdd1063efd36f58"
+    },
+    {
+      "path": "docs/JOURNEY-FILE.md",
+      "bytes": 13158,
+      "sha256": "fa36ebd6f5d2f912207fa8fd72e006ce8f9921c680114c3f2188aee0317735b6"
+    },
+    {
+      "path": "docs/PORTFOLIO-SUMMARY.md",
+      "bytes": 6224,
+      "sha256": "7edc06d882eb3878e6cbf77c4b00091f9cfe6b449f38a1301f997a9719c5931f"
+    },
+    {
+      "path": "docs/PRODUCT.md",
+      "bytes": 4767,
+      "sha256": "2c70c9c89db418cb160a6fd4ce66d162331e0af612cd492b2a59d0747d9ecea2"
+    },
+    {
+      "path": "docs/PUBLICATION-READINESS.md",
+      "bytes": 9072,
+      "sha256": "d6d0a122e3747c3a5833204fd950ba0af596540a0aadf2703fa9260c57648c58"
+    },
+    {
+      "path": "docs/RELEASE-INTEGRATION.md",
+      "bytes": 13062,
+      "sha256": "a2fd0850bb5b337663a079fd24b08df7e7c7adef7e2bd42683fbb96f9e42d5c5"
+    },
+    {
+      "path": "labor_market/__init__.py",
+      "bytes": 36,
+      "sha256": "f1262cb736496d47c4ed983edf5533daebd7f103e504299515baa5cc178055a8"
+    },
+    {
+      "path": "labor_market/analyze.py",
+      "bytes": 12384,
+      "sha256": "a874fce3e8df7e3d3a2d29d9c5de52bde2c3f75e2786abfaa2cb9f0fc5d182c6"
+    },
+    {
+      "path": "labor_market/charts.py",
+      "bytes": 19728,
+      "sha256": "70174a2b7f7079fef1f12ae500fa2e4550b0f9edf52c615babe94390094296a0"
+    },
+    {
+      "path": "labor_market/prepare.py",
+      "bytes": 17579,
+      "sha256": "a225d16df009ea5cb1973608dcb99857beae894f18d4538a4fe1d40a180958e5"
+    },
+    {
+      "path": "prototypes/compass-explorer/README.md",
+      "bytes": 782,
+      "sha256": "88f131425bda8e99ab4dc6b2a9a21bc94d9b67f5e92fc38588bc7d1a43396872"
+    },
+    {
+      "path": "prototypes/compass-explorer/index.html",
+      "bytes": 192,
+      "sha256": "8e9c3de6f9a3e80a0a77a134a5cb2bf7090e0d0fa9bbc0784a3b83ea2c14f795"
+    },
+    {
+      "path": "prototypes/compass-explorer/launcher.py",
+      "bytes": 255,
+      "sha256": "db6d5b08da42bd2e1c90da6f68474ddff0c2cf91cf7f01c77b4f4f5b5871486e"
+    },
+    {
+      "path": "prototypes/compass-explorer/serve.py",
+      "bytes": 263,
+      "sha256": "a6a718501d1d20f6058ea5813026957366858561f6750a8c97c17fe7468e2e61"
+    },
+    {
+      "path": "prototypes/compass-explorer/updater.py",
+      "bytes": 215,
+      "sha256": "cd52071a5b8a2b429f641d6acdf2438d059753ff9e974d9c759816592919e340"
+    },
+    {
+      "path": "prototypes/compass-explorer/verify.py",
+      "bytes": 251,
+      "sha256": "0f466ecd70c50c3f8ca9baa91f52a713eb30876760a001e3b670c1b0aa11400b"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 657,
+      "sha256": "b62a95bca1c7462917a78aff7038fe0d5c764d9610edde95d81f6e0923dc3298"
+    },
+    {
+      "path": "tests/test_analyze.py",
+      "bytes": 24832,
+      "sha256": "382a99fdbea49e4285f8a4a1679c8ee84cfeae27577495588a5b481a5edc2f36"
+    },
+    {
+      "path": "tests/test_app.py",
+      "bytes": 25390,
+      "sha256": "4831988d1e7158db1cf9f2f19793867eb609141763702e5febc4ca2e4d5ac82f"
+    },
+    {
+      "path": "tests/test_charts.py",
+      "bytes": 29708,
+      "sha256": "c3a409df89217816d3b55c79213bfd30181848f3ae6bd513713d4497f49354ca"
+    },
+    {
+      "path": "tests/test_prepare.py",
+      "bytes": 17212,
+      "sha256": "22afd9c91ef3e39d857fd8ffb80e4c256dfd1bb7bea4ec7170782928892dd25d"
+    },
+    {
+      "path": "web/assessment.html",
+      "bytes": 2968,
+      "sha256": "704e33a7df266b035e4ab0a6573effb4918d267046a0ecb19737b1ab6098ba7d"
+    },
+    {
+      "path": "web/assets/compass.js",
+      "bytes": 10561,
+      "sha256": "39e72aea85e04664dca67bb9ecb84df489ffc1b2b6c1f7374fdf3afe36f961f6"
+    },
+    {
+      "path": "web/assets/css/app.css",
+      "bytes": 27262,
+      "sha256": "39853c6406847181f3272168f0abc4b60ddd2e36ada15eebd4e1a45b2402c23b"
+    },
+    {
+      "path": "web/assets/demos.js",
+      "bytes": 34690,
+      "sha256": "76fae5389b3382704b1cdd83095201cac3a132f84b7046311730e320c5f28fc8"
+    },
+    {
+      "path": "web/assets/explorer.css",
+      "bytes": 26998,
+      "sha256": "973409e57f35ffb36eaf079746cfd408d17c2bb8b72d9e7c46a644b61f111346"
+    },
+    {
+      "path": "web/assets/explorer.js",
+      "bytes": 65415,
+      "sha256": "fd0f7bd62741fdf323de7757601528c5cc970999e4eec2628b1ab5c30acd4afa"
+    },
+    {
+      "path": "web/assets/favicon.svg",
+      "bytes": 281,
+      "sha256": "011b0bda20389d7f0791620b2b2e19ce79ad418b4a0eaa6c150ed2a915372fa6"
+    },
+    {
+      "path": "web/assets/fonts/IBMPlexSansArabic-400.ttf",
+      "bytes": 219592,
+      "sha256": "02609c5ef845ef511676c8badb24d1fc8b4aed3dc3b9d8bbdab22c14431b7c16"
+    },
+    {
+      "path": "web/assets/fonts/IBMPlexSansArabic-600.ttf",
+      "bytes": 227276,
+      "sha256": "9e8b030f3326946e481c874a2f751c1321cb0708cba81b79e6c3f9ffacc931df"
+    },
+    {
+      "path": "web/assets/fonts/IBMPlexSansArabic-700.ttf",
+      "bytes": 229352,
+      "sha256": "05616a64c5dca137a327b30b1fe7f4fcd1e16892a332e1665b49d52038858044"
+    },
+    {
+      "path": "web/assets/fonts/OFL.txt",
+      "bytes": 4363,
+      "sha256": "37784b44044a4ffd9256702b7c0982c37e5c8887ba90c6dca0479aea93dc898d"
+    },
+    {
+      "path": "web/assets/icons.js",
+      "bytes": 3232,
+      "sha256": "66eab3bcb46cc2a31d379b85c6bf8e26b278b3d658ffce24d19bc73a5d68507b"
+    },
+    {
+      "path": "web/assets/img/compass.svg",
+      "bytes": 496,
+      "sha256": "0964800a732e0e3ef0ae1c73c1ed767d326f3f59a7aa947f2af460d6a6a935ff"
+    },
+    {
+      "path": "web/assets/journey.js",
+      "bytes": 6489,
+      "sha256": "420abdbcd62287556bbcf4c5548f8269e9f73b79ead5d72a92edf420f8f7e7a3"
+    },
+    {
+      "path": "web/assets/js/app.js",
+      "bytes": 78904,
+      "sha256": "1790b92a6d44474d753394388c22f850de867699975fcba8e7c22001845f0632"
+    },
+    {
+      "path": "web/assets/js/logic.js",
+      "bytes": 47245,
+      "sha256": "f9ddc6e1c816fd32802c7964b984d821316cc29ab5280691bc140524dc39a8c7"
+    },
+    {
+      "path": "web/assets/model.js",
+      "bytes": 11561,
+      "sha256": "abfe3a5039855b93d6c7888570dd798e860e7d347c9edf2955f6bd0d0dcbc762"
+    },
+    {
+      "path": "web/index.html",
+      "bytes": 2470,
+      "sha256": "2e2a1b132004daea4d0bc63c630fa1c596a45371ff2667dbf8c7361c81580fd7"
+    },
+    {
+      "path": "docs/PUBLICATION-FILES.json",
+      "self_hash_omitted": true
+    }
+  ],
+  "excluded_required_local_files": [
+    "web/assets/content.js",
+    "compass/curated/digital_paths.json",
+    "web/data/",
+    "web/published/",
+    "data/sources/"
+  ],
+  "history_review": {
+    "commits": 3,
+    "unique_blobs": 22,
+    "bytes": 197243,
+    "secret_pattern_alerts": 0,
+    "skills_assets_found": false
+  },
+  "live_website": null,
+  "hash_basis": "Git index blob bytes (line-ending normalization included); manifest self-hash omitted"
+}

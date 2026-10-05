@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>بوصلة — الإصدار المحلي الأول</title>
+  <meta name="description" content="بوصلة: اكتشف اهتماماتك، وجرّب مجالًا رقميًا، واختر خطوة تعلّم أولى.">
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="stylesheet" href="assets/explorer.css">
+</head>
+<body>
+  <a class="skip" href="#app">تخطَّ إلى المحتوى</a>
+  <header class="site-header">
+    <div class="header-row">
+      <a class="brand" href="#/" aria-label="مستكشف بوصلة، الرئيسية">
+        <svg viewBox="0 0 64 64" width="38" height="38" aria-hidden="true" focusable="false">
+          <circle cx="32" cy="32" r="30" fill="#0E5E63"/><circle cx="32" cy="32" r="24" fill="none" stroke="#F4E7CC" stroke-opacity=".45" stroke-dasharray="2 4"/>
+          <path d="M32 9 L38.5 32 L32 29 L25.5 32 Z" fill="#C8902E"/>
+          <path d="M32 55 L25.5 32 L32 35 L38.5 32 Z" fill="#F6F3EC"/><circle cx="32" cy="32" r="3.4" fill="#102A3A"/></svg>
+        <span class="brand-text"><strong>بوصلة</strong><small>مستكشف المجالات الرقمية</small></span>
+      </a>
+      <details class="secondary-nav"><summary>المزيد</summary><a href="#/save">حفظ ونقل</a><a href="#/about">عن بوصلة والمصادر</a></details>
+    </div>
+  </header>
+  <div class="newer" id="newer" role="status" hidden>
+    <div class="wrap">تتوفر بيانات أحدث بعد تحقق ناجح. <button type="button" class="btn btn-secondary btn-sm" id="newer-reload">حدّث الصفحة</button>
+      <span class="small muted">إجاباتك محفوظة ولن تتغير.</span></div>
+  </div>
+  <main id="app" tabindex="-1"><div class="wrap"><p class="loading">جارٍ التحميل…</p></div></main>
+  <footer class="site-footer"><div class="wrap small">
+    <div id="freshness"></div>
+    <p>الإصدار المحلي الأول. التقدم يُحفظ في متصفحك فقط. المحتوى المهاري من «إطار المهارات للقطاع الرقمي»؛ والأسئلة والتجارب والأمثلة من إعداد بوصلة.
+    <a href="#/about">المصادر والحدود</a></p></div></footer>
+  <script type="module" src="assets/explorer.js"></script>
+</body>
+</html>

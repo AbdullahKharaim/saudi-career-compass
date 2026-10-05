@@ -4,3 +4,38 @@ __pycache__/
 .pytest_cache/
 .env
 .env.*
+
+# بوصلة: نسخ المصادر المجلوبة وسجلاتها، وبيانات الواجهة المشتقة منها.
+# إذن إعادة الاستخدام العام لملفات أطر المهارات غير محسوم (docs/SOURCES-VERIFIED.md §6)، فلا تُرفع مع الكود.
+data/sources/
+web/data/
+backups/
+runtime/
+web/published/
+# لقطات بوصلة تعرض محتوى إطار المهارات؛ لا تُرفع قبل حسم إذن العرض العلني.
+docs/review-screenshots/compass/
+# نموذج «مستكشف بوصلة»: بياناته المنشورة مشتقة من المصادر (السبب نفسه أعلاه)، وملفات تشغيل المشغّل المحلي.
+prototypes/compass-explorer/data/
+prototypes/compass-explorer/runtime/
+
+# Publication review 2026-10-05: preserve these locally; unresolved source excerpts.
+/compass/curated/
+/web/assets/content.js
+/docs/review-screenshots/
+/docs/CODEX-REVIEW.md
+/docs/CODEX-RECHECK.md
+/docs/CODEX-ROUND-2-RECHECK.md
+/docs/FIELD-COVERAGE.md
+/docs/INTERACTIVE-PROTOTYPE-REPORT.md
+/docs/PROTOTYPE-BROWSER-FIXES.md
+/docs/PROTOTYPE-BROWSER-RECHECK.md
+/docs/REMEDIATION-REPORT.md
+/docs/ROUND-2-REPORT.md
+/docs/SOURCES-VERIFIED.md
+/docs/UX-STUDY.md
+/tests/test_compass_pdf.py
+/tests/test_compass_skills.py
+/tests/test_compass_web.py
+
+# Machine/session configuration is not part of the publication set.
+/.claude/
