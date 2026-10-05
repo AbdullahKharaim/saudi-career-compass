@@ -34,13 +34,13 @@
     },
     {
       "path": "PROJECT-STATUS.md",
-      "bytes": 97558,
-      "sha256": "d5e47516302593f3bb3242ae78441275388c09646048df5d4e3ad81c6ca47a59"
+      "bytes": 99103,
+      "sha256": "2f5fd97670421c733043fe966f78ef2090a20ce3a71abace6c75f6a5d3d767dc"
     },
     {
       "path": "README.md",
-      "bytes": 14051,
-      "sha256": "1d48576671f585aed93b5d705123db815d6e898b7e5afd316869df5333ce7426"
+      "bytes": 14256,
+      "sha256": "deea9ff541a98061a559488e4442b16d3b679e5f78d4bf3c78a0fb62b13edda3"
     },
     {
       "path": "app.py",
@@ -189,8 +189,8 @@
     },
     {
       "path": "docs/PUBLICATION-READINESS.md",
-      "bytes": 9072,
-      "sha256": "d6d0a122e3747c3a5833204fd950ba0af596540a0aadf2703fa9260c57648c58"
+      "bytes": 10805,
+      "sha256": "a6967008a7af17e676fc26f6f593b349a960cc5ee4d0d73104a18fa43004bde3"
     },
     {
       "path": "docs/RELEASE-INTEGRATION.md",
@@ -382,5 +382,14 @@
     "skills_assets_found": false
   },
   "live_website": null,
-  "hash_basis": "Git index blob bytes (line-ending normalization included); manifest self-hash omitted"
+  "hash_basis": "Git index blob bytes (line-ending normalization included); manifest self-hash omitted",
+  "repository_publication": {
+    "url": "https://github.com/AbdullahKharaim/saudi-career-compass",
+    "visibility": "public",
+    "branch": "main",
+    "release_commit": "e06600982bcf1e719f623c4908d596710aa284f4",
+    "anonymous_api_verified_files": 73,
+    "application_https_url": null,
+    "hosting_blocker": "unresolved framework source and excerpt publication permissions"
+  }
 }
